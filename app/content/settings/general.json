@@ -1,10 +1,10 @@
 {
   "title": "Home",
   "titleTemplate": "| Teff",
-  "welcomeText": "# Yo, We're Teff - A Software Company Outfit for Creators.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
+  "welcomeText": "# Yo, We're Teff - A Software Company Outfit for Creators.\n\nWe build software to simplify every avenue of the creative space - from content creation, distribution, growth, and sustainment. Enter your email below if you want to discuss an idea you have to improve this space.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "loadingColor": "#34bf15",
+  "seoDescription": "Teff LLC, 2021",
   "seoMetaImage": ""
 }
