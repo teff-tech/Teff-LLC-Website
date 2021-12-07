@@ -1,6 +1,6 @@
 {
   "publishedAt": "27th Nov 2021",
-  "title": "One Social Media App to Rule Them All",
-  "featuredImage": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2187&q=80",
-  "content": "Twitter, Instagram, Facebook. Three social media platforms each with their own audiences."
+  "title": "One App to Rule Them All",
+  "featuredImage": "/images/uploads/one-to-rule-them-all.png",
+  "content": "Twitter, Instagram, Facebook. Three social media platforms each with their own audiences. Growing and maintaining and audience on one platform is difficult enough. All the time drafting content, editing content, and engaging with followers on a single platform is hard. Managing three is nearly impossible. \n\nThere are a few tools available to help with that. Services like Hootsuite, Buffer, Loomly, SocialPilot are just a few that exist in the market. They're great tools for marketers who have to manage +10 social media accounts on multiple platforms. These options are designed for planned posts and highly curated content with complicated user interfaces to match their feature set. What if you're not a marketer? What if you need something simple for spontaneous, contemporary, daily content?\n\nThat's what we're building. An app to help **solo creators** post content to their **twitter**, **facebook**, and **instagram** accounts. This app will have the following features: \n\n* Post text, images, and video to all platforms\n* Single interface\n* Simple user interface (no instructions required)\n* Scheduling within a 24 hr window\n\nAs we collect user feedback and post data, we'll be able to offer these additional features\n\n* Optimized posting (algorithm driven)\n* Content editing tools\n* Additional Platforms (YouTube, LinkedIn, TikTok)"
 }
