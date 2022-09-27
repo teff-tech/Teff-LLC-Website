@@ -2,7 +2,7 @@
   <footer class="footer -mx-4 md:mx-0">
     <div class="container mx-auto pb-6 flex justify-center">
       <a href="https://twitter.com/teffllc">
-       <p>Copyright &copy; Teff LLC, ${new Date().getYear()}</p> 
+       <p>Copyright &copy; Teff LLC, Forever</p> 
       </a>
     </div>
 
